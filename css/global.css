@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "Segoe UI";
+  src: url("../font/Segoe.ttf");
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.flex {
+  display: flex;
+  gap: 100px;
+}
+.container {
+  max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
+img {
+  max-width: 100%;
+}
