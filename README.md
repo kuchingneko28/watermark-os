@@ -1,1 +1,1 @@
-Only support 4000px wide 
+Only support 4000px wide image
